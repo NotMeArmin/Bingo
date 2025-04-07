@@ -1,4 +1,6 @@
 # 🎲 Konsolbaserat Bingo spel (C++)
+
+# 📜 Sammanfattning
 Välkommen till ett enkelt men roligt konsolbaserat Bingo-spel! 
 Spelet är byggt i C++ och går ut på att spelaren har 16 försök på sig att hitta en rad, kolumn eller diagonal med rätt siffror för att uppnå BINGO.
 
@@ -15,7 +17,7 @@ Målet med projektet var att skapa ett interaktivt spel som tränar både logik 
 - Spelet avslutas när spelaren får en rad, kolumn eller diagonal, eller när alla 16 chanser är förbrukade.
 
 
-# 🧠 Viktiga delar i koden
+# 🧠 Nyckelaspekter
 | **Funktion**        | **Beskrivning**                                                  |
 |---------------------|------------------------------------------------------------------|
 | `shuffleNumbers()`  | Slumpar talen från 1 till 16                                     |
@@ -24,7 +26,7 @@ Målet med projektet var att skapa ett interaktivt spel som tränar både logik 
 | `main()`            | Huvudlogik för spelgången, hanterar inmatning och spelstatus    |
 
 
-# ⚡ Steg för att köra programmet
+# ⚡ Hur används programmet
 - Kompilera koden med en C++-kompilator.
 - Tryck på **Enter** för att starta spelet.
 - Ange ett nummer mellan **1 och 16** för att välja en ruta.
