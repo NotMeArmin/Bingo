@@ -26,6 +26,14 @@ Målet med projektet var att skapa ett interaktivt spel som tränar både logik 
 | `main()`            | Huvudlogik för spelgången, hanterar inmatning och spelstatus    |
 
 
+# ⚡ Hur används programmet
+- Kompilera koden med en C++-kompilator.
+- Tryck på **Enter** för att starta spelet.
+- Ange ett nummer mellan **1 och 16** för att välja en ruta.
+- Du har **16 försök** att få en rad, kolumn eller diagonal markerad.
+- Om du får Bingo skrivs ett meddelande ut. Om du inte lyckas visas en sammanfattning av dina val.
+
+
 # 🗻 Utmaningar
 
 En utmaning i projektet var att skriva koden så att den var lätt att förstå, men ändå hade all funktion som spelet behöver. 
@@ -33,18 +41,11 @@ Det var lite svårt att kontrollera om spelaren vunnit (alltså om en rad, kolum
 En annan utmaning var att få spelet att visa vilka nummer som redan har valts, och att visa dem i grön färg så att spelaren lätt kan se vad som är markerat.
 
 
-# 💹 Härnäst
+# 💹 Vad Härnäst
 Det finns många sätt att förbättra spelet i framtiden. Ett sätt är att göra en finare version med knappar och färger, alltså ett grafiskt gränssnitt istället för bara text.
 Man skulle också kunna lägga till fler spellägen, som större spelplaner (t.ex. 5x5). 
 Man kan också lägga till statistik, som att spara hur många försök det tog att vinna, eller att visa rekord.
 
-
-# ⚡ Hur används programmet
-- Kompilera koden med en C++-kompilator.
-- Tryck på **Enter** för att starta spelet.
-- Ange ett nummer mellan **1 och 16** för att välja en ruta.
-- Du har **16 försök** att få en rad, kolumn eller diagonal markerad.
-- Om du får Bingo skrivs ett meddelande ut. Om du inte lyckas visas en sammanfattning av dina val.
 
 # 🎬 Exempel
 ![image](https://github.com/user-attachments/assets/29c65d3d-aea1-427e-b882-917bd6b1bbfd)
